@@ -5,7 +5,7 @@ Breve Resumo de cada Projeto:
 
 2) Estimadores_Volatilidade.ipynb: Considerações sobre indicadores de volatilidade histórica (além do tradicional close-to-close), com aplicações práticas.
 
-3)Hedge.ipynb: Utiliza o conceito de correlação condicional para verificar quais ativos atuam como hedge em diferentes partes da distribuição de retornos do Ibovespa.
+3) Hedge.ipynb: Utiliza o conceito de correlação condicional para verificar quais ativos atuam como hedge em diferentes partes da distribuição de retornos do Ibovespa.
  
 4) RandomForestExemplo.ipynb: Mostra como ferramentas de machine learning podem melhorar a assertividade de estratégias de investimento com um exemplo prático.
 
