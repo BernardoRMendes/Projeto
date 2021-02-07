@@ -15,5 +15,5 @@ Breve Resumo de cada Projeto:
 
 7) IndicadorPriceAction.ipynb: Nesse estudo apresento um indicador de Price Action que utiliza apenas dados de abertura, máxima, mínima e fechamento para detectar regiôes de compra e venda.
 
-8) VaR_Modificado.ipynb: Mostramos como não devemos limitar à análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores, quanto para gestores.
+8) VaR_Modificado.ipynb: Mostramos como não devemos limitar a análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores quanto para gestores.
 
