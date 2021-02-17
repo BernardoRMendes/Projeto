@@ -1,5 +1,5 @@
 # Projeto
-"""LER PRIMEIRO O ARQUIVO PortfolioVol.pdf"""
+"""Comece a leitura pelo arquivo PortfolioVol.pdf"""
 
 Breve Resumo de cada Projeto:
 
