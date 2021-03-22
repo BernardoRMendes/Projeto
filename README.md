@@ -9,7 +9,7 @@ Breve Resumo de cada Projeto:
 
 3) Hedge.ipynb: Utiliza o conceito de correlação condicional para verificar quais ativos atuam como hedge em diferentes partes da distribuição de retornos do Ibovespa.
  
-4) RandomForestExemplo.ipynb: Mostra como ferramentas de machine learning podem melhorar a assertividade de estratégias de investimento com um exemplo prático.
+4) MetaLabeling.ipynb: Mostra como ferramentas de machine learning podem melhorar a assertividade de estratégias de investimento com um exemplo prático.
 
 5) Correlação_Implícita.ipynb: Esse estudo mostra como a Correlação Implícita pode ser usada como uma ferramenta de avaliação de risco.
 
