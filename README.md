@@ -3,7 +3,7 @@
 
 Breve Resumo de cada Projeto:
 
-1) LongVolSPX.ipynb: Mostra que , na construção de portfólios, a interação entre as estratégias é mais importante do que a performance individual de cada uma delas. Estratégias que à primeira vista parecem ruins podem gerar valor a um portfólio de ações.
+1) LongVolSPX.ipynb: Na construção de portfólios, a interação entre as estratégias é mais importante do que a performance individual de cada uma delas. Estratégias que à primeira vista parecem ruins podem gerar valor a um portfólio de ações.
 
 2) Estimadores_Volatilidade.ipynb: Considerações sobre indicadores de volatilidade histórica (além do tradicional close-to-close), com aplicações práticas.
 
