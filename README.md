@@ -19,3 +19,4 @@ Breve Resumo de cada Projeto:
 
 8) VaR_Modificado.ipynb: Mostramos como não devemos limitar a análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores quanto para gestores.
 
+9) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
