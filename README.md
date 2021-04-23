@@ -13,12 +13,10 @@ Breve Resumo de cada Projeto:
 
 5) Correlação_Implícita.ipynb: Esse estudo mostra como a Correlação Implícita pode ser usada como uma ferramenta de avaliação de risco.
 
-6) ValuationFinancials.ipynb: Como calcular o preço justo de ações por meio de Regressão Múltipla.
+6) IndicadorPriceAction.ipynb: Nesse estudo apresento um indicador de Price Action que utiliza apenas dados de abertura, máxima, mínima e fechamento para detectar regiôes de compra e venda.
 
-7) IndicadorPriceAction.ipynb: Nesse estudo apresento um indicador de Price Action que utiliza apenas dados de abertura, máxima, mínima e fechamento para detectar regiôes de compra e venda.
+7) VaR_Modificado.ipynb: Mostramos como não devemos limitar a análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores quanto para gestores.
 
-8) VaR_Modificado.ipynb: Mostramos como não devemos limitar a análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores quanto para gestores.
+8) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
 
-9) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
-
-10) MomentumETFs.ipynb: Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais.
+9) MomentumETFs.ipynb: Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais.
