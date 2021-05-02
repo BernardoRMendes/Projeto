@@ -19,4 +19,8 @@ Breve Resumo de cada Projeto:
 
 8) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
 
-9) MomentumETFs.ipynb: Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais.
+9) Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais. http://momentum.mlteste.com/
+
+10) Aplicativo de Machine Learning relacionado à estratégia apresentada no estudo MetaLabeling.ipynb, e explicada em uma thread didática no twitter: 
+    -Twitter com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
+    -Aplicativo: http://app.mlteste.com:8501/
