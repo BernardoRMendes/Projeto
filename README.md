@@ -24,4 +24,5 @@ Breve Resumo de cada Projeto:
 10) Aplicativo de Machine Learning relacionado à estratégia apresentada no estudo MetaLabeling.ipynb, e explicada em uma thread didática no twitter: 
     
     -Twitter com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
+    
     -Aplicativo: http://app.mlteste.com:8501/
