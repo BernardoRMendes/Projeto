@@ -4,6 +4,8 @@
 Breve Resumo de cada Projeto:
 
 1) LongVolSPX.ipynb: Na construção de portfólios, a interação entre as estratégias é mais importante do que a performance individual de cada uma delas. Estratégias que à primeira vista parecem ruins podem gerar valor a um portfólio de ações.
+ 
+ -Thread relacionada: https://twitter.com/berchades/status/1384173190172217363
 
 2) Estimadores_Volatilidade.ipynb: Considerações sobre indicadores de volatilidade histórica (além do tradicional close-to-close), com aplicações práticas.
 
@@ -23,6 +25,6 @@ Breve Resumo de cada Projeto:
 
 10) Aplicativo de Machine Learning relacionado à estratégia apresentada no estudo MetaLabeling.ipynb, e explicada em uma thread didática no twitter: 
     
-    -Twitter com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
+    -Thread com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
     
     -Aplicativo: http://app.mlteste.com:8501/
