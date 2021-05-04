@@ -47,7 +47,7 @@ Breve Resumo de cada Projeto:
    
    -https://twitter.com/berchades/status/1386691805153013761
    
-5) Como ajustar o position sizing com a expansão de Cornish-Fisher?
+5) Considerações sobre o VaR (Value-at-Risk) e como ajustar o position sizing considerando outros momentos da distribuição de retornos:
    
    -https://twitter.com/berchades/status/1387819681269043207
    
