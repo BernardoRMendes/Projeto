@@ -28,3 +28,29 @@ Breve Resumo de cada Projeto:
     -Thread com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
     
     -Aplicativo: http://app.mlteste.com:8501/
+    
+    
+**Threads Twitter**
+1) Todo investidor de longo prazo deveria entender o que é Skew e como isso impacta seu portfólio. 
+  
+   -https://twitter.com/berchades/status/1382713925398056962
+
+2) Será que toda estratégia aparentemente ruim deve ser excluída do seu portfólio?
+  
+   -https://twitter.com/berchades/status/1384173190172217363
+
+3) Como aplicar Machine Learning em finanças de um modo inteligente?
+
+   -https://twitter.com/berchades/status/1384898784560353280
+   
+4) Será que o Ouro é um bom hedge para o Ibovespa?
+   
+   -https://twitter.com/berchades/status/1386691805153013761
+   
+5) Como ajustar o position sizing com a expansão de Cornish-Fisher?
+   
+   -https://twitter.com/berchades/status/1387819681269043207
+   
+6) Ações para o longo prazo? Não é tão simples quanto parece...
+   
+   -https://twitter.com/berchades/status/1389261246935994370
