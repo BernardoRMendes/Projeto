@@ -56,3 +56,7 @@ Breve Resumo de cada Projeto:
 6) Ações para o longo prazo? Não é tão simples quanto parece...
    
    -https://twitter.com/berchades/status/1389261246935994370
+
+7) Quanto tempo devemos esperar para rejeitar um Fator já aceito e estabelecido pela academia e por praticantes?
+   
+   -https://twitter.com/berchades/status/1391804423618408459
