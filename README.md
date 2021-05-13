@@ -32,6 +32,8 @@ Breve Resumo de cada Projeto:
 9) Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais. http://momentum.mlteste.com/
 
 10) FatoresUSA.ipynb: Mostra a decomposição dos retornos em fatores e como verificar se há geração de alpha.
+
+11) analiseportfolio.ipynb: Criação e análise de um portfólio Smart Beta (Long-Only) com ETF's setoriais de large caps americanas.
     
     
 **Threads Twitter**
