@@ -7,17 +7,17 @@ Breve Resumo de cada Projeto:
    
    -Thread relacionada: https://twitter.com/berchades/status/1384173190172217363
 
-2) Estimadores_Volatilidade.ipynb: Considerações sobre indicadores de volatilidade histórica (além do tradicional close-to-close), com aplicações práticas.
-
-3) Hedge.ipynb: Utiliza o conceito de correlação condicional para verificar quais ativos atuam como hedge em diferentes partes da distribuição de retornos do Ibovespa.
+2) Hedge.ipynb: Utiliza o conceito de correlação condicional para verificar quais ativos atuam como hedge em diferentes partes da distribuição de retornos do Ibovespa.
 
    -Thread relacionada: https://twitter.com/berchades/status/1386691805153013761
  
-4) MetaLabeling.ipynb: Mostra como ferramentas de machine learning podem melhorar a assertividade de estratégias de investimento com um exemplo prático.
+3) MetaLabeling.ipynb: Mostra como ferramentas de machine learning podem melhorar a assertividade de estratégias de investimento com um exemplo prático.
 
    -Thread com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
     
    -Aplicativo: http://app.mlteste.com:8501/
+   
+4) Estimadores_Volatilidade.ipynb: Código com indicadores de volatilidade histórica (além do tradicional close-to-close).
 
 5) Correlação_Implícita.ipynb: Esse estudo mostra como a Correlação Implícita pode ser usada como uma ferramenta de avaliação de risco.
 
