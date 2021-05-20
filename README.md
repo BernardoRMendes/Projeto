@@ -18,6 +18,8 @@ Breve Resumo de cada Projeto:
    -Aplicativo: http://app.mlteste.com:8501/
    
 4) Estimadores_Volatilidade.ipynb: Código com indicadores de volatilidade histórica (além do tradicional close-to-close).
+    
+   -Thread relacionada: https://twitter.com/berchades/status/1395431999557488646
 
 5) Correlação_Implícita.ipynb: Esse estudo mostra como a Correlação Implícita pode ser usada como uma ferramenta de avaliação de risco.
 
