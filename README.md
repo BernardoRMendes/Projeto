@@ -75,6 +75,7 @@ Breve Resumo de cada Projeto:
 
    -https://twitter.com/berchades/status/1394335515575558146
    
+
 10) Estimadores Volatilidade Histórica:
 
    -https://twitter.com/berchades/status/1395431999557488646
