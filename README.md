@@ -66,3 +66,15 @@ Breve Resumo de cada Projeto:
 7) Quanto tempo devemos esperar para rejeitar um Fator já aceito e estabelecido pela academia e por praticantes?
    
    -https://twitter.com/berchades/status/1391804423618408459
+   
+8) Performance acima do benchmark significa geração de Alpha?
+   
+   -https://twitter.com/berchades/status/1393254091741175808
+   
+9) O que é mais eficiente: Diversificar entre países ou entre setores?
+
+   -https://twitter.com/berchades/status/1394335515575558146
+   
+10) Estimadores Volatilidade Histórica:
+
+   -https://twitter.com/berchades/status/1395431999557488646
