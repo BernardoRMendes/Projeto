@@ -17,7 +17,7 @@ Breve Resumo de cada Projeto:
     
    -Aplicativo: http://app.mlteste.com:8501/
    
-4) Estimadores_Volatilidade.ipynb: Código com indicadores de volatilidade histórica (além do tradicional close-to-close).
+4) Estimadores_Volatilidade_Final.ipynb: Código com indicadores de volatilidade histórica (além do tradicional close-to-close).
     
    -Thread relacionada: https://twitter.com/berchades/status/1395431999557488646
 
