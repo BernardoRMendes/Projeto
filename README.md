@@ -78,5 +78,9 @@ Breve Resumo de cada Projeto:
 10) Estimadores Volatilidade Histórica:
   
    -https://twitter.com/berchades/status/1395431999557488646
+   
+11) Por que volatilidade e sharpe são métricas insuficientes para avaliar o risco real de um portfólio e podem fazer você perder ainda mais que o esperado?
+ 
+   -https://twitter.com/berchades/status/1396877847961247750
 
       
