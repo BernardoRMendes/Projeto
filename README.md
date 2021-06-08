@@ -10,32 +10,26 @@ Breve Resumo de cada Projeto:
 2) Hedge.ipynb: Utiliza o conceito de correlação condicional para verificar quais ativos atuam como hedge em diferentes partes da distribuição de retornos do Ibovespa.
 
    -Thread relacionada: https://twitter.com/berchades/status/1386691805153013761
- 
-3) MetaLabeling.ipynb: Mostra como ferramentas de machine learning podem melhorar a assertividade de estratégias de investimento com um exemplo prático.
-
-   -Thread com explicação sobre o modelo: https://twitter.com/berchades/status/1384898784560353280
-    
-   -Aplicativo: http://app.mlteste.com:8501/
    
-4) Estimadores_Volatilidade_Final.ipynb: Código com indicadores de volatilidade histórica (além do tradicional close-to-close).
+3) Estimadores_Volatilidade_Final.ipynb: Código com indicadores de volatilidade histórica (além do tradicional close-to-close).
     
    -Thread relacionada: https://twitter.com/berchades/status/1395431999557488646
 
-5) Correlação_Implícita.ipynb: Esse estudo mostra como a Correlação Implícita pode ser usada como uma ferramenta de avaliação de risco.
+4) Correlação_Implícita.ipynb: Esse estudo mostra como a Correlação Implícita pode ser usada como uma ferramenta de avaliação de risco.
 
-6) IndicadorPriceAction.ipynb: Nesse estudo apresento um indicador de Price Action que utiliza apenas dados de abertura, máxima, mínima e fechamento para detectar regiôes de compra e venda.
+5) IndicadorPriceAction.ipynb: Nesse estudo apresento um indicador de Price Action que utiliza apenas dados de abertura, máxima, mínima e fechamento para detectar regiôes de compra e venda.
 
-7) VaR_Modificado.ipynb: Mostramos como não devemos limitar a análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores quanto para gestores.
+6) VaR_Modificado.ipynb: Mostramos como não devemos limitar a análise de risco ao VaR paramétrico (assumindo normalidade), apresentando uma versão modificada, com aplicações tanto para alocadores quanto para gestores.
 
    -Thread relacionada: https://twitter.com/berchades/status/1387819681269043207
 
-8) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
+7) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
 
-9) Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais. http://momentum.mlteste.com/
+8) Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais. http://momentum.mlteste.com/
 
-10) FatoresUSA.ipynb: Mostra a decomposição dos retornos em fatores e como verificar se há geração de alpha.
+9) FatoresUSA.ipynb: Mostra a decomposição dos retornos em fatores e como verificar se há geração de alpha.
 
-11) analiseportfolio.ipynb: Criação e análise de um portfólio Smart Beta (Long-Only) com ETF's setoriais de large caps americanas.
+10) analiseportfolio.ipynb: Criação e análise de um portfólio Smart Beta (Long-Only) com ETF's setoriais de large caps americanas.
     
     
 **Threads Twitter**
@@ -50,6 +44,8 @@ Breve Resumo de cada Projeto:
 3) Como aplicar Machine Learning em finanças de um modo inteligente?
 
    -https://twitter.com/berchades/status/1384898784560353280
+   
+   -Aplicativo: http://app.mlteste.com:8501/
    
 4) Será que o Ouro é um bom hedge para o Ibovespa?
    
