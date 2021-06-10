@@ -3,7 +3,7 @@
 
 **Aplicativo Metalabeling: Criei um App que generaliza o modelo apresentado na thread 3, para que você saiba em quais condições sua estratégia tem maior probabilidade de acerto. Vou deixar os links aqui, agradeço quem puder testar. Favor entrar em contato enviando sugestões, dúvidas, bugs, etc. Leia o Manual antes para entender a ideia e o App.**
 
-- Link do Aplicativo: metalabel.mlteste.com:8501
+- Link do Aplicativo: http://metalabel.mlteste.com:8501
 
 - Manual de uso: https://s3-sa-east-1.amazonaws.com/manual.mlteste.com/ManualApp.pdf
 
@@ -33,11 +33,13 @@
 
 7) FatorQualityValue.ipynb: Cria um portfólio de ações com base nos fatores Qualidade e Valor. É um método complementar à seleção por Momentum, contribuindo para a diversificação de portfólio. 
 
-8) Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais. http://momentum.mlteste.com/
+8) Portfólio com viés de Momentum ajustado pela volatilidade utilizando apenas ETF's internacionais: http://momentum.mlteste.com/
 
-9) FatoresUSA.ipynb: Mostra a decomposição dos retornos em fatores e como verificar se há geração de alpha.
+9) Portfólio com viés de Momentum ajustado pela volatilidade com ações do IBrA B3 (Índice Brasil Amplo): http://momentumbr.mlteste.com/
 
-10) analiseportfolio.ipynb: Criação e análise de um portfólio Smart Beta (Long-Only) com ETF's setoriais de large caps americanas.
+10) FatoresUSA.ipynb: Mostra a decomposição dos retornos em fatores e como verificar se há geração de alpha.
+
+11) analiseportfolio.ipynb: Criação e análise de um portfólio Smart Beta (Long-Only) com ETF's setoriais de large caps americanas.
     
     
 **Threads Twitter**
