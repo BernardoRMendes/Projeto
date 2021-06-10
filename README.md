@@ -1,6 +1,14 @@
 # Projeto
 **Comece a leitura pelo arquivo PortfolioVol.pdf**
 
+**Aplicativo Metalabeling: Criei um App que generaliza o modelo apresentado na thread 3, para que você saiba em quais condições sua estratégia tem maior probabilidade de acerto. Vou deixar os links aqui, agradeço quem puder testar. Favor entrar em contato enviando sugestões, dúvidas, bugs, etc. Leia o Manual antes para entender a ideia e o App.**
+
+- Link do Aplicativo: metalabel.mlteste.com:8501
+
+- Manual de uso: https://s3-sa-east-1.amazonaws.com/manual.mlteste.com/ManualApp.pdf
+
+- Planilhas de exemplo: https://s3-sa-east-1.amazonaws.com/manual.mlteste.com/planilhas.7z
+
 Breve Resumo de cada Projeto:
 
 1) LongVolSPX.ipynb: Na construção de portfólios, a interação entre as estratégias é mais importante do que a performance individual de cada uma delas. Estratégias que à primeira vista parecem ruins podem gerar valor a um portfólio de ações.
@@ -79,4 +87,7 @@ Breve Resumo de cada Projeto:
  
    -https://twitter.com/berchades/status/1396877847961247750
 
+12) Você está diversificado o suficiente?
+   
+   -https://twitter.com/berchades/status/1400147435612250118
       
