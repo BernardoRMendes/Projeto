@@ -9,7 +9,7 @@
 
 - Planilhas de exemplo: https://s3-sa-east-1.amazonaws.com/manual.mlteste.com/planilhas.7z
 
-Breve Resumo de cada Projeto:
+**Breve Resumo de cada Projeto:**
 
 1) LongVolSPX.ipynb: Na construção de portfólios, a interação entre as estratégias é mais importante do que a performance individual de cada uma delas. Estratégias que à primeira vista parecem ruins podem gerar valor a um portfólio de ações.
    
