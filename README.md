@@ -93,3 +93,6 @@
    
       -https://twitter.com/berchades/status/1400147435612250118
       
+13) 5 Livros para entender e implementar técnicas de Hedge, desde o ponto de vista conceitual até a prática.
+
+      -https://twitter.com/berchades/status/1405218098635026441
