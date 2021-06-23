@@ -1,5 +1,5 @@
 # Projeto
-**Como introdução, recomendo a leitura do arquivo PortfolioVol.pdf. Caso não tenha interesse em ler códigos em Python, vale a pena ler as thread's relacionadas ao twitter, pois elas reforçam conceitos teóricos importantes. Além disso, se você possui interesse em Machine Learning voltado a finanças, confira o aplicativo abaixo.**
+**Como introdução, recomendo a leitura do arquivo PortfolioVol.pdf. Caso não tenha interesse na leitura de códigos em Python, vale a pena ler as thread's relacionadas ao twitter, pois elas reforçam conceitos teóricos importantes. Além disso, se você possui interesse em Machine Learning voltado a finanças, confira o aplicativo abaixo.**
 
 **- PortfolioVol.pdf https://github.com/BernardoRMendes/Projeto/blob/main/PortfolioVol.pdf**
 
