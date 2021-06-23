@@ -1,6 +1,8 @@
 # Projeto
 **Como introdução, recomendo a leitura do arquivo PortfolioVol.pdf. Caso não tenha interesse em ler códigos em Python, vale a pena ler as thread's relacionadas ao twitter, pois elas reforçam conceitos teóricos importantes. Além disso, se você possui interesse em Machine Learning voltado a finanças, confira o aplicativo abaixo.**
 
+**-bPortfolioVol.pdf https://github.com/BernardoRMendes/Projeto/blob/main/PortfolioVol.pdf**
+
 **Aplicativo Metalabeling: Criei um App que generaliza o modelo apresentado na thread "3) Como aplicar Machine Learning em finanças de um modo inteligente?", para que você saiba em quais condições sua estratégia tem maior probabilidade de acerto. Vou deixar os links aqui, agradeço quem puder testar. Favor entrar em contato enviando sugestões, dúvidas, bugs, etc. Leia o Manual antes para entender a ideia e o App.**
 
 - Link do Aplicativo: http://metalabel.mlteste.com:8501
