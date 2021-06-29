@@ -42,6 +42,8 @@
 10) FatoresUSA.ipynb: Mostra a decomposição dos retornos em fatores e como verificar se há geração de alpha.
 
 11) analiseportfolio.ipynb: Criação e análise de um portfólio Smart Beta (Long-Only) com ETF's setoriais de large caps americanas.
+
+12) Download_CSV_Cotacoes.ipynb: Download das cotações de ativos financeiros e compactação em um arquivo zip, integrando o Yahoo Finance com o Google Colab.
     
     
 **Threads Twitter**
